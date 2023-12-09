@@ -14,10 +14,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.png)
+![](./images/screenshot_desktop.png)
+![](./images/screenshot_mobile.png)
 
 
 ### Links
 
-- Solution URL: [https://github.com/silkcoder/nft-preview-card-component](https://github.com/silkcoder/nft-preview-card-component)
-- Live Site URL: [https://silkcoder.github.io/nft-preview-card-component/](https://silkcoder.github.io/nft-preview-card-component/)
+- Solution URL: [https://github.com/silkcoder/Social-proof-section-challenge-on-Frontend-Mentor](https://github.com/silkcoder/Social-proof-section-challenge-on-Frontend-Mentor)
+- Live Site URL: [https://silkcoder.github.io/Social-proof-section-challenge-on-Frontend-Mentor/](https://silkcoder.github.io/Social-proof-section-challenge-on-Frontend-Mentor/)
